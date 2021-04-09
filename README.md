@@ -27,7 +27,7 @@ Homepage Link: "www.slowtv24.com"
 ![](https://images.velog.io/images/rhdgoehe2/post/cff5f5db-3bd8-4990-b462-c110608e9220/BA6ED9FE-3622-4D78-A983-D3C8BF4E8961.jpeg)
 
 ##  API 문서
-gitbook[bit.ly/3oPeL87]
+[gitbook](bit.ly/3oPeL87)
 
 ## Team members
 🧑🏻‍💻  공해돋이 <br />
